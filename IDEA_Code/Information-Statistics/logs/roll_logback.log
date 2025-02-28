@@ -1,0 +1,19 @@
+2024-10-17 15:36:45 [INFO ] com.itheima.App logStarting 50 [main] Starting App using Java 17.0.11 with PID 14788 (D:\IDEA_Code\Information-Statistics\target\classes started by ASUS in D:\IDEA_Code\Information-Statistics)
+2024-10-17 15:36:45 [INFO ] com.itheima.App logStartupProfileInfo 654 [main] No active profile set, falling back to 1 default profile: "default"
+2024-10-17 15:36:46 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer initialize 111 [main] Tomcat initialized with port 8080 (http)
+2024-10-17 15:36:46 [INFO ] org.apache.coyote.http11.Http11NioProtocol log 173 [main] Initializing ProtocolHandler ["http-nio-8080"]
+2024-10-17 15:36:46 [INFO ] org.apache.catalina.core.StandardService log 173 [main] Starting service [Tomcat]
+2024-10-17 15:36:46 [INFO ] org.apache.catalina.core.StandardEngine log 173 [main] Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-17 15:36:46 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] log 173 [main] Initializing Spring embedded WebApplicationContext
+2024-10-17 15:36:46 [INFO ] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext prepareWebApplicationContext 296 [main] Root WebApplicationContext: initialization completed in 699 ms
+2024-10-17 15:36:46 [INFO ] org.apache.coyote.http11.Http11NioProtocol log 173 [main] Starting ProtocolHandler ["http-nio-8080"]
+2024-10-17 15:36:46 [INFO ] org.springframework.boot.web.embedded.tomcat.TomcatWebServer start 243 [main] Tomcat started on port 8080 (http) with context path '/'
+2024-10-17 15:36:46 [INFO ] com.itheima.App logStarted 56 [main] Started App in 1.359 seconds (process running for 1.932)
+2024-10-17 15:37:02 [INFO ] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] log 173 [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-17 15:37:02 [INFO ] org.springframework.web.servlet.DispatcherServlet initServletBean 532 [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2024-10-17 15:37:02 [INFO ] org.springframework.web.servlet.DispatcherServlet initServletBean 554 [http-nio-8080-exec-1] Completed initialization in 0 ms
+2024-10-17 15:37:02 [INFO ] com.zaxxer.hikari.HikariDataSource getConnection 109 [http-nio-8080-exec-1] HikariPool-1 - Starting...
+2024-10-17 15:37:03 [INFO ] com.zaxxer.hikari.pool.HikariPool checkFailFast 554 [http-nio-8080-exec-1] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4797bc39
+2024-10-17 15:37:03 [INFO ] com.zaxxer.hikari.HikariDataSource getConnection 122 [http-nio-8080-exec-1] HikariPool-1 - Start completed.
+2024-10-17 15:41:21 [INFO ] com.zaxxer.hikari.HikariDataSource close 349 [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2024-10-17 15:41:21 [INFO ] com.zaxxer.hikari.HikariDataSource close 351 [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.

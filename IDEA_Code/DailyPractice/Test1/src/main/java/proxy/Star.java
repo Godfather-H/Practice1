@@ -1,0 +1,11 @@
+package proxy;
+
+public interface Star {
+    //我们可以把所有想要代理的方法定义在接口中
+
+    //唱歌
+    public abstract String sing(String name);
+
+    //跳舞
+    public abstract void dance();
+}

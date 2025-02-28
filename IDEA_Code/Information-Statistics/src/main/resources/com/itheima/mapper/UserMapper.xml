@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.itheima.mapper.UserMapper">
+
+    <insert id="insertUser">
+        insert into user (name,age,sex,height,weight,degree,job,area,income,hobby)
+        values (#{name},#{age},#{sex},#{height},#{weight},#{degree},#{job},#{area},#{income},#{hobby})
+    </insert>
+
+    <select id="list" resultType="com.itheima.pojo.User">
+        select * from user
+        <where>
+            <if test="sex != null">
+                sex = #{sex}
+            </if>
+            <if test="degree != null">
+                and degree = #{degree}
+            </if>
+            <if test="area != null">
+                and area = #{area}
+            </if>
+        </where>
+    </select>
+
+</mapper>

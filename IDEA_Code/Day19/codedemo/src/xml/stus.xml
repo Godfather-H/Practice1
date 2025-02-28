@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE persons SYSTEM 'stus.dtd'>
+
+<persons>
+    <person>
+        <name>张三</name>
+        <age>23</age>
+    </person>
+</persons>
