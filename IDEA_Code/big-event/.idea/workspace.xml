@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed0d9f18-1a6f-4e4a-94ea-985aee56a5d2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2mYSSrLQysGqfIp7hJZsz8lGA3X" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JwtTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JwtTest.testGen.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JwtTest.testParse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RedisTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RedisTest.testSet.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.big-event [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BigEventApplication.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/2024-6-27/springboot+vue/02_资料/06_前端/08_axios素材/后台接口代码/axios_demo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;redis&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_Code\big-event\src\main\resources\com\itheima\mapper" />
+      <recent name="D:\IDEA_Code\big-event\src\main\java\com\itheima\pojo" />
+      <recent name="D:\IDEA_Code\big-event\src\main\java\com\itheima\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BigEventApplication">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.Demo" />
+      <module name="big-event" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JwtTest.testGen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="big-event" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.JwtTest" />
+      <option name="METHOD_NAME" value="testGen" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="big-event" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.RedisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.testSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="big-event" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.RedisTest" />
+      <option name="METHOD_NAME" value="testSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigEventApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="big-event" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.BigEventApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BigEventApplication" />
+        <item itemvalue="JUnit.RedisTest.testSet" />
+        <item itemvalue="JUnit.RedisTest" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="JUnit.JwtTest.testGen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed0d9f18-1a6f-4e4a-94ea-985aee56a5d2" name="Changes" comment="" />
+      <created>1727252018685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727252018685</updated>
+      <workItem from="1727252019709" duration="7630000" />
+      <workItem from="1727269004784" duration="3729000" />
+      <workItem from="1727313553291" duration="7027000" />
+      <workItem from="1727349457300" duration="3982000" />
+      <workItem from="1727402816169" duration="2599000" />
+      <workItem from="1727426917079" duration="7611000" />
+      <workItem from="1727487241815" duration="6015000" />
+      <workItem from="1727571163918" duration="945000" />
+      <workItem from="1727575638970" duration="2060000" />
+      <workItem from="1727590558022" duration="4631000" />
+      <workItem from="1727657178142" duration="8124000" />
+      <workItem from="1727679734212" duration="8130000" />
+      <workItem from="1727696488728" duration="5366000" />
+      <workItem from="1727832024130" duration="3129000" />
+      <workItem from="1727843643032" duration="5000" />
+      <workItem from="1727843669757" duration="1000" />
+      <workItem from="1727921578402" duration="863000" />
+      <workItem from="1728293184444" duration="4725000" />
+      <workItem from="1728370962339" duration="12000" />
+      <workItem from="1728371327266" duration="3041000" />
+      <workItem from="1728437646830" duration="4379000" />
+      <workItem from="1728477478046" duration="2797000" />
+      <workItem from="1728543000357" duration="4750000" />
+      <workItem from="1728564977567" duration="613000" />
+      <workItem from="1728631636551" duration="4586000" />
+      <workItem from="1728651105079" duration="1924000" />
+      <workItem from="1728738643324" duration="2312000" />
+      <workItem from="1728961223957" duration="61000" />
+      <workItem from="1728978685879" duration="692000" />
+      <workItem from="1728985301302" duration="48000" />
+      <workItem from="1728985736636" duration="2788000" />
+      <workItem from="1728997353748" duration="1149000" />
+      <workItem from="1729041148608" duration="546000" />
+      <workItem from="1729064913438" duration="5401000" />
+      <workItem from="1729125156118" duration="50000" />
+      <workItem from="1729147675115" duration="4699000" />
+      <workItem from="1733472798107" duration="3403000" />
+      <workItem from="1733557251069" duration="2275000" />
+      <workItem from="1733625455675" duration="1628000" />
+      <workItem from="1733640609553" duration="2706000" />
+      <workItem from="1734083347398" duration="15000" />
+      <workItem from="1734092035840" duration="648000" />
+      <workItem from="1734141897575" duration="118000" />
+      <workItem from="1734142837928" duration="680000" />
+      <workItem from="1734144220285" duration="172000" />
+      <workItem from="1740448140386" duration="1074000" />
+      <workItem from="1740466966477" duration="1498000" />
+      <workItem from="1740622250955" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

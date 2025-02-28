@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d3b9396-6aa7-4368-b3b1-8c90bc687904" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\Maven\apache-maven-3.6.1" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2j5mfxZwBYbOdnMq6YqFaSNb7zX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisCrudApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisCrudApplicationTests.test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisCrudApplicationTests.testInsert.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisCrudApplicationTests.testList.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisCrudApplicationTests.testSelect (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisCrudApplicationTests.testSelect.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisCrudApplicationTests.testUpdate.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisCrudApplicationTests.testupdateDynamically.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringbootMybatisQuickdemoApplicationTests.testListener.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TliasWebManagementApplicationTests.parseJwt.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TliasWebManagementApplicationTests.testGenJwt.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.maven-project01 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.maven-project01 [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.maven-project01 [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.maven-project01 [test].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringbootWebQuickstartApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringbootWebReqRespApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.TliasWebManagementApplication.executor&quot;: &quot;Run&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IDEA_Code/itheima_web_pro/tlias-web-management/src/main/java/com/itheima/utils&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_Code\itheima_web_pro\tlias-web-management\src\main\java\com\itheima\utils" />
+      <recent name="D:\IDEA_Code\itheima_web_pro\springboot-web-req-resp\springboot-web-req-resp\src\main\resources\static" />
+      <recent name="D:\IDEA_Code\itheima_web_pro\springboot-web-req-resp\springboot-web-req-resp\src\main\resources" />
+      <recent name="D:\IDEA_Code\itheima_web_pro\springboot-web-req-resp\springboot-web-req-resp\src\main\java\com\itheima\pojo" />
+      <recent name="D:\IDEA_Code\itheima_web_pro\springboot-web-req-resp\springboot-web-req-resp\src\main\java\com\itheima\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TliasWebManagementApplication">
+    <configuration name="SpringbootMybatisCrudApplicationTests.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.SpringbootMybatisCrudApplicationTests" />
+      <option name="METHOD_NAME" value="testList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisCrudApplicationTests.testSelect (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.SpringbootMybatisCrudApplicationTests" />
+      <option name="METHOD_NAME" value="testSelect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisCrudApplicationTests.testupdateDynamically" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-mybatis-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.SpringbootMybatisCrudApplicationTests" />
+      <option name="METHOD_NAME" value="testupdateDynamically" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplicationTests.parseJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.TliasWebManagementApplicationTests" />
+      <option name="METHOD_NAME" value="parseJwt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplicationTests.testGenJwt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.TliasWebManagementApplicationTests" />
+      <option name="METHOD_NAME" value="testGenJwt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisCrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-mybatis-crud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.SpringbootMybatisCrudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootMybatisQuickdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-mybatis-quickdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.SpringbootMybatisQuickdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootWebQuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-web-quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.SpringbootWebQuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootWebReqRespApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-web-req-resp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.SpringbootWebReqRespApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TliasWebManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="tlias-web-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.TliasWebManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TliasWebManagementApplicationTests.parseJwt" />
+        <item itemvalue="JUnit.TliasWebManagementApplicationTests.testGenJwt" />
+        <item itemvalue="JUnit.SpringbootMybatisCrudApplicationTests.testupdateDynamically" />
+        <item itemvalue="JUnit.SpringbootMybatisCrudApplicationTests.testList" />
+        <item itemvalue="JUnit.SpringbootMybatisCrudApplicationTests.testSelect (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d3b9396-6aa7-4368-b3b1-8c90bc687904" name="Changes" comment="" />
+      <created>1720685421002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720685421002</updated>
+      <workItem from="1720685422059" duration="424000" />
+      <workItem from="1720685854666" duration="40000" />
+      <workItem from="1720686090894" duration="795000" />
+      <workItem from="1720686923371" duration="376000" />
+      <workItem from="1720687304547" duration="2035000" />
+      <workItem from="1720744028130" duration="3148000" />
+      <workItem from="1720748117534" duration="1303000" />
+      <workItem from="1720783619878" duration="2445000" />
+      <workItem from="1720835965047" duration="1626000" />
+      <workItem from="1720837727869" duration="1234000" />
+      <workItem from="1720852999272" duration="1274000" />
+      <workItem from="1720854290252" duration="5545000" />
+      <workItem from="1720861934453" duration="4742000" />
+      <workItem from="1720921700286" duration="740000" />
+      <workItem from="1720942947751" duration="30000" />
+      <workItem from="1721207253447" duration="2229000" />
+      <workItem from="1721209512706" duration="1470000" />
+      <workItem from="1721218014864" duration="411000" />
+      <workItem from="1721218441667" duration="1123000" />
+      <workItem from="1721272902357" duration="602000" />
+      <workItem from="1721539450286" duration="1517000" />
+      <workItem from="1721556277807" duration="2405000" />
+      <workItem from="1721632802136" duration="2999000" />
+      <workItem from="1721695719163" duration="7628000" />
+      <workItem from="1721799215104" duration="9809000" />
+      <workItem from="1721874607193" duration="4855000" />
+      <workItem from="1721894539916" duration="679000" />
+      <workItem from="1721900007708" duration="5771000" />
+      <workItem from="1721953484807" duration="15614000" />
+      <workItem from="1722041285432" duration="9916000" />
+      <workItem from="1722076209846" duration="1855000" />
+      <workItem from="1722130448996" duration="596000" />
+      <workItem from="1722133202493" duration="11411000" />
+      <workItem from="1722174871414" duration="108000" />
+      <workItem from="1722174986684" duration="565000" />
+      <workItem from="1722216723034" duration="300000" />
+      <workItem from="1722217323801" duration="450000" />
+      <workItem from="1722217867668" duration="6049000" />
+      <workItem from="1722305934431" duration="3886000" />
+      <workItem from="1722477553504" duration="7000" />
+      <workItem from="1722756968822" duration="198000" />
+      <workItem from="1727659451761" duration="495000" />
+      <workItem from="1727664777523" duration="1654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

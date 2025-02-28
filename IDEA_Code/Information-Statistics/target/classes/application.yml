@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/user_information_statistics
+    username: root
+    password: 123456
+
+
+logging:
+  level:
+    # 设置 MyBatis 的日志级别为 debug，这将输出更详细的 MyBatis 内部处理信息到控制台
+    org.mybatis: debug
+mybatis:
+  configuration:
+    # 指定MyBatis的日志实现类
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    # 开启驼峰命名
+    map-underscore-to-camel-case: true

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05c82f94-0592-46f1-b488-e60ecaa88da3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\Maven\apache-maven-3.6.1" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lBdZj5QjdZqD15x7TP8jaG5Ikd" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbstractFactoryClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AdapterPatternClient (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AdapterPatternClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BucketSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuilderPatternClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparableExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountDownLatchExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountingSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecoratorClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FacadeClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlyweightClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HeapSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IterableExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSortBottomUp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyReflectDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyReflectDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyReflectionDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrototypeClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProxyClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Server.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShellSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingletonClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StatePatternExample (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.StatePatternExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test13.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Test14.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Test15.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Test2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test2 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test3 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test3 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test3.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Test4 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test5.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Test6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test7.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Test8.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Test9.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.URL1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tcp1.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tcp1.Server.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tcp_practice1.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tcp_practice1.Server.executor&quot;: &quot;Run&quot;,
+    &quot;Application.统计字符个数.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/2024-6-27/Java/进阶篇/day04/代码/day04-code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_Code\DailyPractice\Test1\src\main\java\design_patterns\factory_method" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="ComparableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ComparableExample" />
+      <module name="Test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountDownLatchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.CountDownLatchExample" />
+      <module name="Test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.IterableExample" />
+      <module name="Test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortBottomUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting_algorithm.MergeSortBottomUp" />
+      <module name="Test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting_algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting_algorithm.QuickSort" />
+      <module name="Test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorting_algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MergeSortBottomUp" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.CountDownLatchExample" />
+      <item itemvalue="Application.ComparableExample" />
+      <item itemvalue="Application.IterableExample" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.MergeSortBottomUp" />
+        <item itemvalue="Application.CountDownLatchExample" />
+        <item itemvalue="Application.ComparableExample" />
+        <item itemvalue="Application.IterableExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05c82f94-0592-46f1-b488-e60ecaa88da3" name="Changes" comment="" />
+      <created>1724657461335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724657461335</updated>
+      <workItem from="1724657462342" duration="615000" />
+      <workItem from="1724658085238" duration="731000" />
+      <workItem from="1724929952960" duration="35000" />
+      <workItem from="1725441387278" duration="782000" />
+      <workItem from="1725797753426" duration="609000" />
+      <workItem from="1725847381331" duration="1936000" />
+      <workItem from="1725954207315" duration="1702000" />
+      <workItem from="1726125698928" duration="4677000" />
+      <workItem from="1726232714634" duration="2100000" />
+      <workItem from="1726363005203" duration="1295000" />
+      <workItem from="1726371520963" duration="910000" />
+      <workItem from="1726375786503" duration="1238000" />
+      <workItem from="1726386872214" duration="221000" />
+      <workItem from="1726458784473" duration="2863000" />
+      <workItem from="1726476932106" duration="557000" />
+      <workItem from="1726626520171" duration="4000" />
+      <workItem from="1726975079688" duration="116000" />
+      <workItem from="1729053255739" duration="1162000" />
+      <workItem from="1729064324939" duration="5000" />
+      <workItem from="1729064899457" duration="6000" />
+      <workItem from="1729501467510" duration="3290000" />
+      <workItem from="1729937171603" duration="2479000" />
+      <workItem from="1730083223284" duration="3200000" />
+      <workItem from="1730193035935" duration="2010000" />
+      <workItem from="1730278427737" duration="5355000" />
+      <workItem from="1730365963051" duration="1665000" />
+      <workItem from="1730378806750" duration="1632000" />
+      <workItem from="1730446328337" duration="5119000" />
+      <workItem from="1730460712936" duration="4015000" />
+      <workItem from="1730509726514" duration="3172000" />
+      <workItem from="1730534448990" duration="773000" />
+      <workItem from="1730880240255" duration="2158000" />
+      <workItem from="1730940998021" duration="3984000" />
+      <workItem from="1730983388546" duration="2716000" />
+      <workItem from="1731119395937" duration="2123000" />
+      <workItem from="1731138968808" duration="53000" />
+      <workItem from="1731222656475" duration="4084000" />
+      <workItem from="1731292411287" duration="958000" />
+      <workItem from="1731378471141" duration="3416000" />
+      <workItem from="1731394975479" duration="4132000" />
+      <workItem from="1731568900953" duration="9000" />
+      <workItem from="1731569568462" duration="3613000" />
+      <workItem from="1731653232157" duration="5476000" />
+      <workItem from="1731726753424" duration="1883000" />
+      <workItem from="1731811229258" duration="1915000" />
+      <workItem from="1731828798852" duration="2853000" />
+      <workItem from="1731894332979" duration="3626000" />
+      <workItem from="1731912565215" duration="708000" />
+      <workItem from="1731985767364" duration="1444000" />
+      <workItem from="1732069400631" duration="3389000" />
+      <workItem from="1732152471276" duration="3631000" />
+      <workItem from="1732173002984" duration="6225000" />
+      <workItem from="1732184086565" duration="2685000" />
+      <workItem from="1732188797146" duration="4871000" />
+      <workItem from="1732238245637" duration="4749000" />
+      <workItem from="1732324726112" duration="2671000" />
+      <workItem from="1732344862229" duration="9226000" />
+      <workItem from="1732359980331" duration="255000" />
+      <workItem from="1732410251041" duration="7525000" />
+      <workItem from="1732430634303" duration="3743000" />
+      <workItem from="1732435523288" duration="8297000" />
+      <workItem from="1732762284253" duration="4621000" />
+      <workItem from="1732776953763" duration="17349000" />
+      <workItem from="1732868443677" duration="4134000" />
+      <workItem from="1732957728103" duration="940000" />
+      <workItem from="1732961100485" duration="3828000" />
+      <workItem from="1733017420398" duration="693000" />
+      <workItem from="1733043286414" duration="580000" />
+      <workItem from="1733103465572" duration="1804000" />
+      <workItem from="1733120043388" duration="875000" />
+      <workItem from="1733189409283" duration="7223000" />
+      <workItem from="1733273705713" duration="9353000" />
+      <workItem from="1733294046830" duration="1630000" />
+      <workItem from="1733295697764" duration="1262000" />
+      <workItem from="1733307462639" duration="7204000" />
+      <workItem from="1733359693816" duration="7338000" />
+      <workItem from="1733381729442" duration="8954000" />
+      <workItem from="1733397744043" duration="4658000" />
+      <workItem from="1733448470351" duration="1834000" />
+      <workItem from="1733468852804" duration="3672000" />
+      <workItem from="1733557191215" duration="56000" />
+      <workItem from="1734083364010" duration="1255000" />
+      <workItem from="1734090829302" duration="267000" />
+      <workItem from="1734254608621" duration="2610000" />
+      <workItem from="1734340926029" duration="4864000" />
+      <workItem from="1734405259327" duration="619000" />
+      <workItem from="1734418120828" duration="1683000" />
+      <workItem from="1734486417343" duration="27000" />
+      <workItem from="1736411926597" duration="1830000" />
+      <workItem from="1736422324902" duration="2505000" />
+      <workItem from="1736476576712" duration="3507000" />
+      <workItem from="1736647857494" duration="4411000" />
+      <workItem from="1736665115321" duration="9305000" />
+      <workItem from="1736732235528" duration="4464000" />
+      <workItem from="1736752794648" duration="4378000" />
+      <workItem from="1736837799712" duration="24000" />
+      <workItem from="1736993142327" duration="3333000" />
+      <workItem from="1737525499811" duration="810000" />
+      <workItem from="1737691159021" duration="6442000" />
+      <workItem from="1738211593006" duration="1136000" />
+      <workItem from="1738307746437" duration="3810000" />
+      <workItem from="1738324891761" duration="2543000" />
+      <workItem from="1738481517050" duration="1407000" />
+      <workItem from="1739675100992" duration="7000" />
+      <workItem from="1739710273030" duration="291000" />
+      <workItem from="1739954495811" duration="2750000" />
+      <workItem from="1739961883375" duration="7170000" />
+      <workItem from="1740016524476" duration="1786000" />
+      <workItem from="1740033957115" duration="6043000" />
+      <workItem from="1740101719601" duration="1400000" />
+      <workItem from="1740213100279" duration="2175000" />
+      <workItem from="1740220057679" duration="599000" />
+      <workItem from="1740220673860" duration="6321000" />
+      <workItem from="1740307570413" duration="1805000" />
+      <workItem from="1740446652359" duration="712000" />
+      <workItem from="1740622303690" duration="213000" />
+      <workItem from="1740622566684" duration="2956000" />
+      <workItem from="1740637290382" duration="1673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test1/src/main/java/com/itheima/Test3.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test1/src/main/java/com/itheima/Test3.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
